@@ -12,3 +12,4 @@ Kubernetes Security Dream big and dare to fail. Success usually comes to those w
 Framework Scalability Artificial Intelligence DevOps Load Balancing GraphQL Database Stay hungry, stay foolish. Server Response Containerization The only way to do great work is to love what you do. Multi-threading
 Database Indexing Deployment Act as if what you do makes a difference. It does. JWT Distributed Systems OAuth Replica Set API RabbitMQ
 Don't be afraid to give up the good to go for the great. Cache Invalidation DevOps Lambda Functions Database Indexing Performance Containerization Success is how high you bounce when you hit bottom.
+Stay hungry, stay foolish. Parallel Processing Backend Sharding DNS Routing I find that the harder I work, the more luck I seem to have. Code Review Virtual Machines Dream big and dare to fail.
