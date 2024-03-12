@@ -14,3 +14,4 @@ API Kubernetes Frontend Cache Invalidation API Gateway Machine Learning Great th
 Dream big and dare to fail. Microservices Difficult roads often lead to beautiful destinations. API Latency Optimization Deployment
 UX Optimization Simplicity is the ultimate sophistication. Cache Invalidation Virtual Machines JavaScript Algorithm Frontend
 Scalability Cache Invalidation Zero Downtime Deployment UX Optimization Work hard in silence, let your success be your noise. DevOps Great things never come from comfort zones. Event Sourcing Security Multi-threading Success doesn’t just find you. You have to go out and get it. I find that the harder I work, the more luck I seem to have. Opportunities don't happen. You create them. Load Testing
+API Predictive Analytics Distributed Systems Success is not in what you have, but who you are. OAuth Multi-threading Happiness is not something ready made. It comes from your own actions. Database

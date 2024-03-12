@@ -10,3 +10,4 @@ API Gateway Sharding Cloud Testing Backend Pull Request Dream big and dare to fa
 Monitoring Cache Invalidation A/B Testing Data Science Stay hungry, stay foolish. Success is how high you bounce when you hit bottom. Virtual Machines WebSockets JWT Blockchain Testing Agile Neural Networks
 Firewalls Innovation distinguishes between a leader and a follower. Content Delivery Network Parallel Processing Great things never come from comfort zones. Predictive Analytics
 Load Balancing Work hard in silence, let your success be your noise. Success doesn’t just find you. You have to go out and get it. Happiness is not something ready made. It comes from your own actions. Cloud Functions Distributed Systems
+NLP Event Sourcing Simplicity is the ultimate sophistication. Big Data Security Sharding RabbitMQ Stay hungry, stay foolish. I find that the harder I work, the more luck I seem to have. Replica Set Kubernetes
