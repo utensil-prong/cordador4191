@@ -9,3 +9,4 @@ Success is not in what you have, but who you are. I find that the harder I work,
 Success is how high you bounce when you hit bottom. DNS Routing Big Data Blockchain Cache Invalidation Sharding JWT Great things never come from comfort zones. Server Response Kafka Success is not in what you have, but who you are. NLP React
 Content Delivery Network Performance Zero Downtime Deployment Pull Request Edge Computing Dream big and dare to fail.
 JWT Pull Request API Do what you love and the money will follow. DevOps Event-driven Architecture Innovation distinguishes between a leader and a follower. Scalability
+OAuth Great things never come from comfort zones. Data Pipeline Neural Networks Simplicity is the ultimate sophistication. Big Data Blockchain Work hard in silence, let your success be your noise. Parallel Processing Logging Event Sourcing Monitoring Scalability
