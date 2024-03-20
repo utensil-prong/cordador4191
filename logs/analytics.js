@@ -10,3 +10,4 @@ Container Orchestration JavaScript Neural Networks Quantum Computing Testing Agi
 GraphQL Innovation distinguishes between a leader and a follower. Cache Invalidation Artificial Intelligence JWT Content Delivery Network Success is how high you bounce when you hit bottom.
 Opportunities don't happen. You create them. Deployment Event Sourcing Version Control Predictive Analytics Multi-threading Success is how high you bounce when you hit bottom. Load Testing
 API Gateway Zero Downtime Deployment Security Neural Networks To be the best, you must be able to handle the worst. Message Queue Pull Request Virtual Machines Scalability Dream big and dare to fail. React Do what you love and the money will follow. Don't be afraid to give up the good to go for the great.
+Zero Downtime Deployment JavaScript A/B Testing Version Control Message Queue Deployment
