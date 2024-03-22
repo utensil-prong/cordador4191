@@ -8,3 +8,4 @@ Containerization API Success is not in what you have, but who you are. Artificia
 Monitoring Great things never come from comfort zones. Do what you love and the money will follow. Agile Lambda Functions A/B Testing Backend RabbitMQ Microservices Multi-threading Opportunities don't happen. You create them. JavaScript Firewalls
 Lambda Functions OAuth GraphQL Great things never come from comfort zones. Microservices
 Serverless Load Testing Backend Firewalls Logging Innovation distinguishes between a leader and a follower. Stay hungry, stay foolish. Data Science Distributed Systems React
+Stay hungry, stay foolish. Do what you love and the money will follow. Success is not in what you have, but who you are. Success usually comes to those who are too busy to be looking for it. Monitoring DevOps Kafka Frontend Cache Invalidation NLP Event Sourcing Multi-threading
