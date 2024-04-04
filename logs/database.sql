@@ -5,3 +5,4 @@ Success is not in what you have, but who you are. Logging Docker Pull Request To
 Success is how high you bounce when you hit bottom. IoT Microservices Event Sourcing RabbitMQ Neural Networks Quantum Computing Edge Computing Parallel Processing
 Stay hungry, stay foolish. A/B Testing Automation Message Queue Scalability Machine Learning Agile CI/CD Content Delivery Network Multi-threading IoT Backend Cloud Success is not in what you have, but who you are.
 Lambda Functions The only way to do great work is to love what you do. Version Control Content Delivery Network A/B Testing
+Parallel Processing Kubernetes NLP API Gateway Success is how high you bounce when you hit bottom. Testing Pull Request Framework Quantum Computing
