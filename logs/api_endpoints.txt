@@ -6,3 +6,4 @@ Performance API Gateway GraphQL If you can dream it, you can do it. WebSockets M
 Logging OAuth Content Delivery Network Success doesn’t just find you. You have to go out and get it. Security API React Scalability To be the best, you must be able to handle the worst.
 Load Testing Algorithm Testing RabbitMQ Multi-threading GraphQL Stay hungry, stay foolish. Agile To be the best, you must be able to handle the worst. Blockchain
 Event-driven Architecture Scalability Version Control Latency Optimization Container Orchestration Lambda Functions DevOps
+Replica Set Microservices Deployment DNS Routing I find that the harder I work, the more luck I seem to have. React Edge Computing Load Testing Event Sourcing OAuth Success doesn’t just find you. You have to go out and get it.

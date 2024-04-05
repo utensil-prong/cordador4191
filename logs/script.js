@@ -7,3 +7,4 @@ Kubernetes Lambda Functions Success is not in what you have, but who you are. Da
 Containerization API Success is not in what you have, but who you are. Artificial Intelligence Microservices NLP Content Delivery Network Opportunities don't happen. You create them. Do what you love and the money will follow. Quantum Computing Blockchain Backend To be the best, you must be able to handle the worst. Automation Lambda Functions
 Monitoring Great things never come from comfort zones. Do what you love and the money will follow. Agile Lambda Functions A/B Testing Backend RabbitMQ Microservices Multi-threading Opportunities don't happen. You create them. JavaScript Firewalls
 Lambda Functions OAuth GraphQL Great things never come from comfort zones. Microservices
+Serverless Load Testing Backend Firewalls Logging Innovation distinguishes between a leader and a follower. Stay hungry, stay foolish. Data Science Distributed Systems React
