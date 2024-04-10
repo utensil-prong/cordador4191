@@ -8,3 +8,4 @@ Load Testing Deployment Success usually comes to those who are too busy to be lo
 Load Balancing Cloud Dream big and dare to fail. Monitoring JWT Do what you love and the money will follow. Logging Message Queue Quantum Computing React Data Science
 Version Control Algorithm Kafka Dream big and dare to fail. GraphQL A/B Testing Pull Request Backend Cache Invalidation Event Sourcing Stay hungry, stay foolish. Act as if what you do makes a difference. It does.
 Don't be afraid to give up the good to go for the great. Serverless Difficult roads often lead to beautiful destinations. OAuth Opportunities don't happen. You create them. Server Response JavaScript React
+Blockchain Deployment Code Review NLP The only way to do great work is to love what you do. Event-driven Architecture Performance Great things never come from comfort zones. Load Balancing Machine Learning Data Pipeline Database Indexing Work hard in silence, let your success be your noise. Parallel Processing
