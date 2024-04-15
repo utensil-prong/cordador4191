@@ -12,3 +12,4 @@ WebSockets Monitoring Database Quantum Computing Don't be afraid to give up the 
 Automation Content Delivery Network Docker A/B Testing Monitoring Happiness is not something ready made. It comes from your own actions. Replica Set
 API Kubernetes Frontend Cache Invalidation API Gateway Machine Learning Great things never come from comfort zones.
 Dream big and dare to fail. Microservices Difficult roads often lead to beautiful destinations. API Latency Optimization Deployment
+UX Optimization Simplicity is the ultimate sophistication. Cache Invalidation Virtual Machines JavaScript Algorithm Frontend
