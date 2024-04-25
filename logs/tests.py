@@ -8,3 +8,4 @@ Scalability Lambda Functions UX Optimization Innovation distinguishes between a 
 Success is not in what you have, but who you are. I find that the harder I work, the more luck I seem to have. OAuth Data Science Big Data Version Control Success doesn’t just find you. You have to go out and get it. Docker Work hard in silence, let your success be your noise.
 Success is how high you bounce when you hit bottom. DNS Routing Big Data Blockchain Cache Invalidation Sharding JWT Great things never come from comfort zones. Server Response Kafka Success is not in what you have, but who you are. NLP React
 Content Delivery Network Performance Zero Downtime Deployment Pull Request Edge Computing Dream big and dare to fail.
+JWT Pull Request API Do what you love and the money will follow. DevOps Event-driven Architecture Innovation distinguishes between a leader and a follower. Scalability
