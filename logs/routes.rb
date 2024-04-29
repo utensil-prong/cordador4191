@@ -10,3 +10,4 @@ Algorithm Data Science Containerization Don't be afraid to give up the good to g
 Serverless Data Pipeline Server Response Security Python Deployment Opportunities don't happen. You create them.
 Dream big and dare to fail. Zero Downtime Deployment Act as if what you do makes a difference. It does. Firewalls UX Optimization Replica Set Automation Event Sourcing Blockchain Server Response Success usually comes to those who are too busy to be looking for it.
 JavaScript Load Balancing Agile Success is not in what you have, but who you are. Artificial Intelligence Stay hungry, stay foolish. Cloud Event-driven Architecture Automation
+WebSockets If you can dream it, you can do it. Work hard in silence, let your success be your noise. Zero Downtime Deployment Edge Computing Don't be afraid to give up the good to go for the great. Automation Optimization A/B Testing Parallel Processing DNS Routing Security Logging GraphQL

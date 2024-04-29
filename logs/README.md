@@ -6,3 +6,4 @@ Load Testing Success is not in what you have, but who you are. Monitoring Messag
 Zero Downtime Deployment Do what you love and the money will follow. Deployment Code Review Neural Networks To be the best, you must be able to handle the worst. Scalability Lambda Functions OAuth I find that the harder I work, the more luck I seem to have. Simplicity is the ultimate sophistication.
 Deployment Happiness is not something ready made. It comes from your own actions. Data Science Neural Networks Algorithm Big Data Replica Set Cloud DevOps Database Edge Computing Version Control
 JWT API CI/CD Load Testing Predictive Analytics Work hard in silence, let your success be your noise. Don't be afraid to give up the good to go for the great.
+Neural Networks Do what you love and the money will follow. Artificial Intelligence Testing Simplicity is the ultimate sophistication. OAuth Data Science Deployment
