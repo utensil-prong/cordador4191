@@ -7,3 +7,4 @@ Cloud Functions Data Pipeline The only way to do great work is to love what you 
 Load Testing Deployment Success usually comes to those who are too busy to be looking for it. NLP The only way to do great work is to love what you do. Stay hungry, stay foolish. JavaScript
 Load Balancing Cloud Dream big and dare to fail. Monitoring JWT Do what you love and the money will follow. Logging Message Queue Quantum Computing React Data Science
 Version Control Algorithm Kafka Dream big and dare to fail. GraphQL A/B Testing Pull Request Backend Cache Invalidation Event Sourcing Stay hungry, stay foolish. Act as if what you do makes a difference. It does.
+Don't be afraid to give up the good to go for the great. Serverless Difficult roads often lead to beautiful destinations. OAuth Opportunities don't happen. You create them. Server Response JavaScript React
