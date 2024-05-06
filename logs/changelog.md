@@ -8,3 +8,4 @@ React Cloud Load Testing Kubernetes Event-driven Architecture Zero Downtime Depl
 Act as if what you do makes a difference. It does. Edge Computing Serverless Success doesn’t just find you. You have to go out and get it. Security Virtual Machines Cloud Multi-threading Dream big and dare to fail. Automation A/B Testing NLP Success is not in what you have, but who you are.
 API Gateway Sharding Cloud Testing Backend Pull Request Dream big and dare to fail. Firewalls Event Sourcing Distributed Systems Success doesn’t just find you. You have to go out and get it. DNS Routing
 Monitoring Cache Invalidation A/B Testing Data Science Stay hungry, stay foolish. Success is how high you bounce when you hit bottom. Virtual Machines WebSockets JWT Blockchain Testing Agile Neural Networks
+Firewalls Innovation distinguishes between a leader and a follower. Content Delivery Network Parallel Processing Great things never come from comfort zones. Predictive Analytics
