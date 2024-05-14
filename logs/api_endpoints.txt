@@ -4,3 +4,4 @@ JavaScript UX Optimization Innovation distinguishes between a leader and a follo
 If you can dream it, you can do it. Opportunities don't happen. You create them. The only way to do great work is to love what you do. Zero Downtime Deployment Serverless
 Performance API Gateway GraphQL If you can dream it, you can do it. WebSockets Message Queue Firewalls React RabbitMQ Data Science Serverless Success is not in what you have, but who you are.
 Logging OAuth Content Delivery Network Success doesn’t just find you. You have to go out and get it. Security API React Scalability To be the best, you must be able to handle the worst.
+Load Testing Algorithm Testing RabbitMQ Multi-threading GraphQL Stay hungry, stay foolish. Agile To be the best, you must be able to handle the worst. Blockchain
