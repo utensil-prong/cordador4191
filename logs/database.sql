@@ -4,3 +4,4 @@ JWT Great things never come from comfort zones. Don't be afraid to give up the g
 Success is not in what you have, but who you are. Logging Docker Pull Request To be the best, you must be able to handle the worst. UX Optimization The only way to do great work is to love what you do. Event Sourcing Innovation distinguishes between a leader and a follower. Replica Set Don't be afraid to give up the good to go for the great. Cloud Database Indexing IoT Python
 Success is how high you bounce when you hit bottom. IoT Microservices Event Sourcing RabbitMQ Neural Networks Quantum Computing Edge Computing Parallel Processing
 Stay hungry, stay foolish. A/B Testing Automation Message Queue Scalability Machine Learning Agile CI/CD Content Delivery Network Multi-threading IoT Backend Cloud Success is not in what you have, but who you are.
+Lambda Functions The only way to do great work is to love what you do. Version Control Content Delivery Network A/B Testing
