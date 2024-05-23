@@ -6,3 +6,4 @@ Act as if what you do makes a difference. It does. NLP Event-driven Architecture
 Blockchain I find that the harder I work, the more luck I seem to have. API Framework Machine Learning Database
 Automation Great things never come from comfort zones. Sharding Virtual Machines Cloud Functions To be the best, you must be able to handle the worst. Lambda Functions Distributed Systems Performance
 Event-driven Architecture Server Response Stay hungry, stay foolish. DNS Routing Artificial Intelligence Deployment The only way to do great work is to love what you do. Performance Machine Learning GraphQL Frontend
+Virtual Machines Python React Success is not in what you have, but who you are. Don't be afraid to give up the good to go for the great. Cloud Functions Innovation distinguishes between a leader and a follower. Kubernetes UX Optimization

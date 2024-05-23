@@ -6,3 +6,4 @@ OAuth Innovation distinguishes between a leader and a follower. A/B Testing Simp
 API Gateway Monitoring Cloud Message Queue Testing Load Balancing Edge Computing Algorithm Event-driven Architecture Success doesn’t just find you. You have to go out and get it. Framework
 Predictive Analytics Algorithm Success usually comes to those who are too busy to be looking for it. API Gateway Containerization Success doesn’t just find you. You have to go out and get it. Machine Learning Multi-threading Microservices NLP Don't be afraid to give up the good to go for the great. Stay hungry, stay foolish.
 Success usually comes to those who are too busy to be looking for it. Database Indexing Container Orchestration Distributed Systems Parallel Processing Replica Set Scalability Success is how high you bounce when you hit bottom. Quantum Computing Database NLP
+Backend Neural Networks Zero Downtime Deployment Success doesn’t just find you. You have to go out and get it. Scalability
