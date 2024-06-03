@@ -9,3 +9,4 @@ Innovation distinguishes between a leader and a follower. Sharding Load Balancin
 Blockchain Cloud Functions Neural Networks Data Pipeline Frontend Event Sourcing Predictive Analytics Simplicity is the ultimate sophistication.
 UX Optimization A/B Testing To be the best, you must be able to handle the worst. Load Testing Pull Request Server Response React Logging Simplicity is the ultimate sophistication. Neural Networks Success doesn’t just find you. You have to go out and get it. Containerization
 Event-driven Architecture Security Cloud Deployment Success is how high you bounce when you hit bottom. Microservices Kubernetes Algorithm IoT Logging
+Innovation distinguishes between a leader and a follower. IoT Pull Request To be the best, you must be able to handle the worst. Machine Learning UX Optimization Stay hungry, stay foolish. Frontend API NLP Version Control
