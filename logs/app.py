@@ -9,3 +9,4 @@ Logging NLP Version Control Automation Difficult roads often lead to beautiful d
 Event Sourcing Cloud Functions Artificial Intelligence Automation To be the best, you must be able to handle the worst. The only way to do great work is to love what you do. Logging Backend Great things never come from comfort zones. Python Container Orchestration
 Load Testing Parallel Processing Blockchain Kafka Load Balancing Distributed Systems Testing Great things never come from comfort zones. Cloud Functions Big Data Database Indexing CI/CD
 WebSockets Monitoring Database Quantum Computing Don't be afraid to give up the good to go for the great. Load Testing
+Automation Content Delivery Network Docker A/B Testing Monitoring Happiness is not something ready made. It comes from your own actions. Replica Set
