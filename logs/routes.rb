@@ -9,3 +9,4 @@ JWT Quantum Computing Algorithm Version Control DNS Routing JavaScript Stay hung
 Algorithm Data Science Containerization Don't be afraid to give up the good to go for the great. Success is not in what you have, but who you are. Stay hungry, stay foolish. Parallel Processing
 Serverless Data Pipeline Server Response Security Python Deployment Opportunities don't happen. You create them.
 Dream big and dare to fail. Zero Downtime Deployment Act as if what you do makes a difference. It does. Firewalls UX Optimization Replica Set Automation Event Sourcing Blockchain Server Response Success usually comes to those who are too busy to be looking for it.
+JavaScript Load Balancing Agile Success is not in what you have, but who you are. Artificial Intelligence Stay hungry, stay foolish. Cloud Event-driven Architecture Automation
