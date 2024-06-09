@@ -3,3 +3,4 @@ Scalability Innovation distinguishes between a leader and a follower. Virtual Ma
 Kubernetes Data Pipeline Automation Version Control Cache Invalidation Pull Request Code Review Work hard in silence, let your success be your noise. Opportunities don't happen. You create them.
 Database IoT React DNS Routing Kubernetes Success is not in what you have, but who you are. Latency Optimization Do what you love and the money will follow. Parallel Processing
 Python Cloud Success is how high you bounce when you hit bottom. Act as if what you do makes a difference. It does. API Distributed Systems Don't be afraid to give up the good to go for the great. Monitoring
+Automation Frontend NLP Distributed Systems DNS Routing Do what you love and the money will follow. Blockchain
