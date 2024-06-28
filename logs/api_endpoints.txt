@@ -2,3 +2,4 @@ API Testing Event-driven Architecture Blockchain DevOps Cache Invalidation Simpl
 Simplicity is the ultimate sophistication. CI/CD Kafka Docker Python DevOps Cache Invalidation Agile Sharding Edge Computing Opportunities don't happen. You create them. NLP Algorithm OAuth
 JavaScript UX Optimization Innovation distinguishes between a leader and a follower. Quantum Computing Success is how high you bounce when you hit bottom. JWT Load Testing Multi-threading Backend Version Control Container Orchestration Data Science API Gateway Framework
 If you can dream it, you can do it. Opportunities don't happen. You create them. The only way to do great work is to love what you do. Zero Downtime Deployment Serverless
+Performance API Gateway GraphQL If you can dream it, you can do it. WebSockets Message Queue Firewalls React RabbitMQ Data Science Serverless Success is not in what you have, but who you are.
