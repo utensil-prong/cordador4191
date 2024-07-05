@@ -8,3 +8,4 @@ WebSockets Event-driven Architecture Event Sourcing Multi-threading Performance 
 Logging NLP Version Control Automation Difficult roads often lead to beautiful destinations. Big Data Distributed Systems Work hard in silence, let your success be your noise. Cloud
 Event Sourcing Cloud Functions Artificial Intelligence Automation To be the best, you must be able to handle the worst. The only way to do great work is to love what you do. Logging Backend Great things never come from comfort zones. Python Container Orchestration
 Load Testing Parallel Processing Blockchain Kafka Load Balancing Distributed Systems Testing Great things never come from comfort zones. Cloud Functions Big Data Database Indexing CI/CD
+WebSockets Monitoring Database Quantum Computing Don't be afraid to give up the good to go for the great. Load Testing

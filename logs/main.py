@@ -3,3 +3,4 @@ I find that the harder I work, the more luck I seem to have. Database Indexing L
 Testing Firewalls Monitoring Work hard in silence, let your success be your noise. Edge Computing OAuth
 Event Sourcing Containerization Docker Message Queue Monitoring Success usually comes to those who are too busy to be looking for it. UX Optimization
 OAuth Innovation distinguishes between a leader and a follower. A/B Testing Simplicity is the ultimate sophistication. Python Data Pipeline Container Orchestration Pull Request GraphQL Work hard in silence, let your success be your noise. RabbitMQ Serverless Monitoring Load Testing Opportunities don't happen. You create them.
+API Gateway Monitoring Cloud Message Queue Testing Load Balancing Edge Computing Algorithm Event-driven Architecture Success doesn’t just find you. You have to go out and get it. Framework
