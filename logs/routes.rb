@@ -5,3 +5,4 @@ Blockchain Backend Don't be afraid to give up the good to go for the great. Perf
 Distributed Systems Pull Request Code Review Success is not in what you have, but who you are. Content Delivery Network If you can dream it, you can do it.
 Backend Framework OAuth Zero Downtime Deployment Version Control Latency Optimization Virtual Machines
 API JWT Backend Success is not in what you have, but who you are. If you can dream it, you can do it. Don't be afraid to give up the good to go for the great. The only way to do great work is to love what you do. Database Indexing JavaScript Great things never come from comfort zones. Database Distributed Systems Happiness is not something ready made. It comes from your own actions. Latency Optimization Server Response
+JWT Quantum Computing Algorithm Version Control DNS Routing JavaScript Stay hungry, stay foolish. Content Delivery Network Microservices
