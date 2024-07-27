@@ -7,3 +7,4 @@ JavaScript Data Pipeline Parallel Processing Cloud Functions Neural Networks Suc
 CI/CD IoT Backend Microservices NLP Deployment Happiness is not something ready made. It comes from your own actions. Don't be afraid to give up the good to go for the great. Database Indexing To be the best, you must be able to handle the worst. API Gateway Data Pipeline Zero Downtime Deployment RabbitMQ
 Backend Cloud Database Indexing JavaScript Code Review Edge Computing Cache Invalidation A/B Testing
 Container Orchestration JavaScript Neural Networks Quantum Computing Testing Agile DNS Routing React Latency Optimization If you can dream it, you can do it.
+GraphQL Innovation distinguishes between a leader and a follower. Cache Invalidation Artificial Intelligence JWT Content Delivery Network Success is how high you bounce when you hit bottom.
