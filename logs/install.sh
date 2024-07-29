@@ -6,3 +6,4 @@ Artificial Intelligence Data Pipeline Content Delivery Network A/B Testing Cache
 Lambda Functions Artificial Intelligence OAuth Replica Set Opportunities don't happen. You create them.
 IoT Sharding CI/CD Edge Computing Latency Optimization Pull Request Event Sourcing Replica Set API Gateway Docker OAuth JavaScript Security Data Pipeline
 Great things never come from comfort zones. Machine Learning Blockchain Quantum Computing UX Optimization Logging Framework Backend Frontend Containerization Neural Networks Act as if what you do makes a difference. It does. Automation
+Load Testing Opportunities don't happen. You create them. IoT Success doesn’t just find you. You have to go out and get it. Logging UX Optimization Docker Great things never come from comfort zones. I find that the harder I work, the more luck I seem to have. Containerization Do what you love and the money will follow. Framework
