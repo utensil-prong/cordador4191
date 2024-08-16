@@ -1,1 +1,2 @@
 API JavaScript Load Balancing Event Sourcing Database Indexing CI/CD The only way to do great work is to love what you do. WebSockets Framework To be the best, you must be able to handle the worst. OAuth Algorithm Serverless
+Scalability Innovation distinguishes between a leader and a follower. Virtual Machines Microservices Parallel Processing Artificial Intelligence Success usually comes to those who are too busy to be looking for it. DevOps Kubernetes UX Optimization I find that the harder I work, the more luck I seem to have. API Gateway Database
