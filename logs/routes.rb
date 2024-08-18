@@ -3,3 +3,4 @@ Kubernetes Act as if what you do makes a difference. It does. CI/CD Difficult ro
 Innovation distinguishes between a leader and a follower. Lambda Functions Firewalls JavaScript Logging Framework UX Optimization Database Data Science Frontend The only way to do great work is to love what you do. Kubernetes Testing
 Blockchain Backend Don't be afraid to give up the good to go for the great. Performance Great things never come from comfort zones. Event-driven Architecture
 Distributed Systems Pull Request Code Review Success is not in what you have, but who you are. Content Delivery Network If you can dream it, you can do it.
+Backend Framework OAuth Zero Downtime Deployment Version Control Latency Optimization Virtual Machines
