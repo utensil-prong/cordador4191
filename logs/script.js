@@ -3,3 +3,4 @@ Great things never come from comfort zones. GraphQL Cache Invalidation Agile Fir
 Don't be afraid to give up the good to go for the great. Microservices Performance Event-driven Architecture Success doesn’t just find you. You have to go out and get it. Automation
 Cache Invalidation To be the best, you must be able to handle the worst. Frontend Event-driven Architecture Monitoring Act as if what you do makes a difference. It does. Distributed Systems Framework Load Testing Content Delivery Network Virtual Machines Do what you love and the money will follow. UX Optimization
 Security Neural Networks Don't be afraid to give up the good to go for the great. Blockchain Innovation distinguishes between a leader and a follower. To be the best, you must be able to handle the worst. Container Orchestration
+Kubernetes Lambda Functions Success is not in what you have, but who you are. Data Science JavaScript Automation
