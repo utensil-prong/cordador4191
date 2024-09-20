@@ -6,3 +6,4 @@ Stay hungry, stay foolish. The only way to do great work is to love what you do.
 Data Science Predictive Analytics Firewalls DNS Routing Big Data Lambda Functions
 React Cloud Load Testing Kubernetes Event-driven Architecture Zero Downtime Deployment Backend GraphQL Cloud Functions Predictive Analytics Code Review
 Act as if what you do makes a difference. It does. Edge Computing Serverless Success doesn’t just find you. You have to go out and get it. Security Virtual Machines Cloud Multi-threading Dream big and dare to fail. Automation A/B Testing NLP Success is not in what you have, but who you are.
+API Gateway Sharding Cloud Testing Backend Pull Request Dream big and dare to fail. Firewalls Event Sourcing Distributed Systems Success doesn’t just find you. You have to go out and get it. DNS Routing
