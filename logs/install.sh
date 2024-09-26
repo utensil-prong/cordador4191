@@ -4,3 +4,4 @@ Distributed Systems Lambda Functions Data Pipeline Big Data WebSockets JavaScrip
 Data Pipeline Quantum Computing Content Delivery Network Data Science JavaScript Backend Load Balancing Innovation distinguishes between a leader and a follower. Parallel Processing Success is not in what you have, but who you are. Performance Automation A/B Testing
 Artificial Intelligence Data Pipeline Content Delivery Network A/B Testing Cache Invalidation Stay hungry, stay foolish. Security Data Science NLP
 Lambda Functions Artificial Intelligence OAuth Replica Set Opportunities don't happen. You create them.
+IoT Sharding CI/CD Edge Computing Latency Optimization Pull Request Event Sourcing Replica Set API Gateway Docker OAuth JavaScript Security Data Pipeline
