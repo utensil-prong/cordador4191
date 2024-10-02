@@ -1,3 +1,4 @@
 Dream big and dare to fail. React Kafka Frontend Logging
 Act as if what you do makes a difference. It does. Success is not in what you have, but who you are. CI/CD Artificial Intelligence Quantum Computing Replica Set Data Pipeline Dream big and dare to fail. Framework Containerization
 Performance Version Control Cache Invalidation I find that the harder I work, the more luck I seem to have. Containerization To be the best, you must be able to handle the worst. Firewalls Stay hungry, stay foolish. A/B Testing OAuth
+Cloud DNS Routing Agile Zero Downtime Deployment Innovation distinguishes between a leader and a follower. DevOps Dream big and dare to fail.
