@@ -5,3 +5,4 @@ Innovation distinguishes between a leader and a follower. Event Sourcing Framewo
 Stay hungry, stay foolish. The only way to do great work is to love what you do. Blockchain Success is not in what you have, but who you are. Serverless
 Data Science Predictive Analytics Firewalls DNS Routing Big Data Lambda Functions
 React Cloud Load Testing Kubernetes Event-driven Architecture Zero Downtime Deployment Backend GraphQL Cloud Functions Predictive Analytics Code Review
+Act as if what you do makes a difference. It does. Edge Computing Serverless Success doesn’t just find you. You have to go out and get it. Security Virtual Machines Cloud Multi-threading Dream big and dare to fail. Automation A/B Testing NLP Success is not in what you have, but who you are.
