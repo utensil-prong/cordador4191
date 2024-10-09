@@ -4,3 +4,4 @@ GraphQL Optimization Distributed Systems Security Difficult roads often lead to 
 Innovation distinguishes between a leader and a follower. Event Sourcing Framework GraphQL Load Balancing
 Stay hungry, stay foolish. The only way to do great work is to love what you do. Blockchain Success is not in what you have, but who you are. Serverless
 Data Science Predictive Analytics Firewalls DNS Routing Big Data Lambda Functions
+React Cloud Load Testing Kubernetes Event-driven Architecture Zero Downtime Deployment Backend GraphQL Cloud Functions Predictive Analytics Code Review
