@@ -3,3 +3,4 @@ DevOps Distributed Systems Success is not in what you have, but who you are. Art
 Distributed Systems Lambda Functions Data Pipeline Big Data WebSockets JavaScript Multi-threading
 Data Pipeline Quantum Computing Content Delivery Network Data Science JavaScript Backend Load Balancing Innovation distinguishes between a leader and a follower. Parallel Processing Success is not in what you have, but who you are. Performance Automation A/B Testing
 Artificial Intelligence Data Pipeline Content Delivery Network A/B Testing Cache Invalidation Stay hungry, stay foolish. Security Data Science NLP
+Lambda Functions Artificial Intelligence OAuth Replica Set Opportunities don't happen. You create them.
