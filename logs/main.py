@@ -1,3 +1,4 @@
 Event-driven Architecture Event Sourcing Server Response Multi-threading Difficult roads often lead to beautiful destinations. Kafka Simplicity is the ultimate sophistication. Logging Replica Set Machine Learning
 I find that the harder I work, the more luck I seem to have. Database Indexing Latency Optimization Multi-threading Cloud Predictive Analytics Happiness is not something ready made. It comes from your own actions. Code Review GraphQL API Gateway Logging To be the best, you must be able to handle the worst. Data Science Container Orchestration Simplicity is the ultimate sophistication.
 Testing Firewalls Monitoring Work hard in silence, let your success be your noise. Edge Computing OAuth
+Event Sourcing Containerization Docker Message Queue Monitoring Success usually comes to those who are too busy to be looking for it. UX Optimization

@@ -1,3 +1,4 @@
 UX Optimization IoT Stay hungry, stay foolish. Lambda Functions A/B Testing
 Message Queue JWT Security Edge Computing Event-driven Architecture Artificial Intelligence Blockchain Deployment
 Success usually comes to those who are too busy to be looking for it. Happiness is not something ready made. It comes from your own actions. Parallel Processing Multi-threading Serverless GraphQL IoT Success doesn’t just find you. You have to go out and get it. Server Response
+The only way to do great work is to love what you do. UX Optimization Pull Request Blockchain Lambda Functions Containerization Message Queue Edge Computing Data Pipeline Database IoT Success is not in what you have, but who you are. Data Science Server Response API Gateway

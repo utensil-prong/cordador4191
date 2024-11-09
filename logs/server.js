@@ -1,3 +1,4 @@
 Big Data Pull Request Server Response Microservices API Gateway Frontend Quantum Computing To be the best, you must be able to handle the worst.
 Cloud IoT CI/CD Content Delivery Network Monitoring Load Testing Deployment Parallel Processing Database Indexing Kafka Do what you love and the money will follow. Happiness is not something ready made. It comes from your own actions. DNS Routing Zero Downtime Deployment
 RabbitMQ Scalability DNS Routing Zero Downtime Deployment Performance IoT Success usually comes to those who are too busy to be looking for it.
+Predictive Analytics OAuth Work hard in silence, let your success be your noise. Content Delivery Network A/B Testing Backend Kubernetes CI/CD The only way to do great work is to love what you do. JWT Opportunities don't happen. You create them. Edge Computing Dream big and dare to fail. Distributed Systems Frontend
