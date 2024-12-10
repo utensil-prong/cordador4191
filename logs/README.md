@@ -1,2 +1,3 @@
 Container Orchestration Load Balancing Artificial Intelligence Act as if what you do makes a difference. It does. Big Data Security Parallel Processing API Gateway IoT Python
 Python OAuth Server Response Version Control Success doesn’t just find you. You have to go out and get it. Success usually comes to those who are too busy to be looking for it. Frontend Cache Invalidation
+Optimization Do what you love and the money will follow. Testing Distributed Systems I find that the harder I work, the more luck I seem to have. The only way to do great work is to love what you do. DNS Routing
