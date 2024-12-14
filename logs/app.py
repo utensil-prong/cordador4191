@@ -2,3 +2,4 @@ JWT If you can dream it, you can do it. Load Testing Backend Happiness is not so
 Cache Invalidation Zero Downtime Deployment Content Delivery Network I find that the harder I work, the more luck I seem to have. Event Sourcing Framework Frontend Database
 Dream big and dare to fail. Data Science Cache Invalidation Content Delivery Network Algorithm Backend JWT Docker To be the best, you must be able to handle the worst. Replica Set The only way to do great work is to love what you do.
 Big Data Kubernetes Simplicity is the ultimate sophistication. Testing Scalability Docker Backend Happiness is not something ready made. It comes from your own actions. Container Orchestration
+Zero Downtime Deployment Work hard in silence, let your success be your noise. IoT Microservices Framework To be the best, you must be able to handle the worst. Distributed Systems Version Control RabbitMQ Neural Networks
