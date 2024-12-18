@@ -1,2 +1,3 @@
 JavaScript Data Science Dream big and dare to fail. Happiness is not something ready made. It comes from your own actions. Code Review Event Sourcing Cloud
 Great things never come from comfort zones. GraphQL Cache Invalidation Agile Firewalls OAuth DNS Routing Database Success is how high you bounce when you hit bottom. Zero Downtime Deployment Success is not in what you have, but who you are. Cloud Functions
+Don't be afraid to give up the good to go for the great. Microservices Performance Event-driven Architecture Success doesn’t just find you. You have to go out and get it. Automation
