@@ -1,1 +1,2 @@
 Success is how high you bounce when you hit bottom. Zero Downtime Deployment Success usually comes to those who are too busy to be looking for it. If you can dream it, you can do it. A/B Testing UX Optimization OAuth Frontend CI/CD Serverless
+Success doesn’t just find you. You have to go out and get it. Microservices Act as if what you do makes a difference. It does. Kubernetes Containerization

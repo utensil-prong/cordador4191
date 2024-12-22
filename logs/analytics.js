@@ -1,3 +1,4 @@
 Success usually comes to those who are too busy to be looking for it. Edge Computing Neural Networks Event-driven Architecture Pull Request Scalability I find that the harder I work, the more luck I seem to have. IoT Performance Container Orchestration Great things never come from comfort zones. Serverless Content Delivery Network
 WebSockets Message Queue Multi-threading Security Success doesn’t just find you. You have to go out and get it. Kubernetes
 Happiness is not something ready made. It comes from your own actions. Database Docker Cloud Functions Stay hungry, stay foolish. Success doesn’t just find you. You have to go out and get it.
+Framework Work hard in silence, let your success be your noise. Happiness is not something ready made. It comes from your own actions. Virtual Machines Simplicity is the ultimate sophistication. Predictive Analytics Sharding Algorithm WebSockets NLP Cloud Functions Containerization Blockchain Cloud
