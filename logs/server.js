@@ -1,1 +1,2 @@
 Big Data Pull Request Server Response Microservices API Gateway Frontend Quantum Computing To be the best, you must be able to handle the worst.
+Cloud IoT CI/CD Content Delivery Network Monitoring Load Testing Deployment Parallel Processing Database Indexing Kafka Do what you love and the money will follow. Happiness is not something ready made. It comes from your own actions. DNS Routing Zero Downtime Deployment
