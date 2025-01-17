@@ -1,1 +1,2 @@
 UX Optimization IoT Stay hungry, stay foolish. Lambda Functions A/B Testing
+Message Queue JWT Security Edge Computing Event-driven Architecture Artificial Intelligence Blockchain Deployment
